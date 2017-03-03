@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Generatore CSV Fatture</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="msapplication-tap-highlight" content="no">
+
+    <script src="./underscore-min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+        crossorigin="anonymous"></script>
+        <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+            crossorigin="anonymous">
+
+            <!-- Latest compiled and minified JavaScript -->
+            <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+                crossorigin="anonymous"></script>
+
+                <link rel="stylesheet" href="./custom.css">
+</head>
+
+<body>
+    <div class="container" style="margin-top: 20px;">
+        <div class="row row-centered">
+            <div class="col col-md-12">
+                <h1>Benvenuto sul Portale Fatture</h1>
+                <p>Carica il file Documenti emessi ed il file Intestatari</p>
+            </div>
+        </div>
+        <div class="row" style="margin-top: 40px;">
+            <div class="col-md-4 col-md-offset-1">
+                <div class="input-group">
+                    <label class="input-group-btn">
+                    <span class="btn btn-primary">
+                        Documenti <input type="file" id="docs" style="display: none;" multiple>
+                    </span>
+                </label>
+                    <input type="text" class="form-control" readonly>
+                </div>
+                <!--<label>Carica file Documenti</label>
+                <input type="file" id="docs" name="file" />-->
+            </div>
+            <div class="col-md-4 col-md-offset-2">
+                <div class="input-group">
+                    <label class="input-group-btn">
+                    <span class="btn btn-primary">
+                        Intestatari <input type="file" id="people" style="display: none;" multiple>
+                    </span>
+                </label>
+                    <input type="text" class="form-control" readonly>
+                </div>
+                <!--<label>Carica file Intestatari</label>
+                <input type="file" id="people" name="file" />-->
+            </div>
+        </div>
+        <div class="row row-centered" style="margin-top: 60px;">
+            <div class="col col-md-12">
+                <p>Premi il bottone per scaricare il file CSV (da importare in Excel)</p>
+                <button type="button" class="btn btn-primary" autocomplete="off" onclick="downloadCsv()">
+                Download CSV
+            </button>
+            </div>
+        </div>
+    </div>
+    <script src="./generate_csv.js"></script>
+</body>
+
+</html>
