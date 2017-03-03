@@ -1,0 +1,119 @@
+FT|DF|1|01/01/2017|1171|||Compravendita|1459,05|1719,96|22|320,99|0|0|0||3500
+FT|DF|2|01/01/2017|1172|||Mutuo fondiario|1041,23|29,7|22|229,07|0|0|0||1300
+FT|DF|3|01/01/2017|1009|||Atto costitutivo srl|1173,04|603,5|22|258,07|20|234,61|0||2034,61
+FT|DF|4|01/01/2017|1131|||Cessioni quote snc|1916,27|745,4|22|421,58|20|383,25|0||3083,25
+FT|DF|5|01/01/2017|1130|||Cessione quota snc|1088,82|489,4|22|239,54|20|217,76|0||1817,76
+FT|DF|6|01/01/2017|1215|||Estratto autentico (fattura COLORVISION OUTLET S.R.L.)|58,82|0|22|12,94|20|11,76|0||71,76
+PR|DF|1|01/01/2017|1269|||Compravendita prima casa|2258,85|244,2|22|496,95|0|0|0||0
+FT|DF|7|01/01/2017|1167|||Compravendita terreno agricolo|965,16|2122,5|22|212,34|0|0|0||3300
+PR|DF|2|01/01/2017|0|||Compravendita garage (euro 14.000 oltre IVA)|961,06|827,5|22|211,44|0|0|0||0
+PR|DF|3|01/01/2017|0||||676,8|1174,3|22|148,9|0|0|0||0
+FT|DF|8|03/01/2017|1098|||Atto istitutivo di associazione temporanea di imprese|539,61|249,6|22|118,71|20|107,92|0||907,92
+FT|DF|9|03/01/2017|1105|||Autentica di firma fideiussione bancaria|245,1|0|22|53,92|20|49,02|0||299,02
+FT|DF|10|03/01/2017|1099|||Autentica di firma per fideiussione bancaria|245,1|0|22|53,92|20|49,02|0||299,02
+FT|DF|11|03/01/2017|1214|||Soc.cap. Scioglimento|632,25|455,1|22|139,1|20|126,45|0||1226,45
+PR|DF|5|03/01/2017|0|||Mutuo fondiario MAESTRANZI (110mila euro, ipoteca 176mila euro)|845,08|69|22|185,92|0|0|0||0
+AV|DF|3|03/01/2017|897|||Fondo Patrimoniale|763,85|568,1|22|168,05|0|0|0||0
+AV|DF|4|03/01/2017|895|||Compravendita|1476,56|1198,6|22|324,84|0|0|0||0
+AV|DF|5|03/01/2017|1212|||Mutuo con Surroga GALEAZ -VANINI|686,27|50|22|150,98|20|137,25|0||0
+AV|DF|6|03/01/2017|1211|||Mutuo con Surroga BRUSCATO|1019,61|55|22|224,31|20|203,92|0||0
+AV|DF|7|03/01/2017|1210|||Mutuo con Surroga CALIARI-LEONI|928,72|52,7|22|204,32|20|185,74|0||0
+FT|DF|12|04/01/2017|1138|||Compravendita|1957,87|211,4|22|430,73|0|0|0||2600
+FT|DF|13|04/01/2017|1223|||Separazione dei Beni|533,11|249,6|22|117,29|0|0|0||900
+PR|DF|7|04/01/2017|0|||Compravendita prima casa (185mila euro, rendita 568,10+113.62 euro)|1439,85|1793,38|22|316,77|0|0|0||0
+PR|DF|8|04/01/2017|0|||Mutuo fondiario (135mila euro, ipoteca 202.500 euro)|921,56|25,7|22|202,74|0|0|0||0
+PR|DF|9|04/01/2017|0|||Compravendita prima casa quota 1/2 immobile (euro 230mila, rendite 355+51,65+20,81 euro)|1868,03|1221|22|410,97|0|0|0||0
+FT|DF|14|04/01/2017|1219|||Cessione di Quote srl|634,8|552,5|22|139,66|20|126,96|0||1326,96
+PR|DF|10|04/01/2017|0|||Compravendita prima casa (80mila euro)|1399,18|1193|22|307,82|0|0|0||0
+FT|DF|15|05/01/2017|1179|||Cessione di azienda|1214,86|1760,84|22|267,27|20|242,97|0||3242,97
+PR|DF|15|05/01/2017|0|||Mutuo ipotecario (850mila euro, ipoteca 1,7mil)|3033,52|205,8|22|667,38|20|606,7|0||0
+PR|DF|16|05/01/2017|0|||Atto costitutivo spa (capitale 50 mila euro)|1658,82|608|22|364,94|20|331,76|0||0
+FT|DF|16|05/01/2017|1206|||Girata azionaria ISA SPA|141,96|1955,2|22|31,23|20|28,39|0||2128,39
+FT|DF|17|06/01/2017|1022|||Pubblicaz. Testamento Olografo e pratica di dichiarazione di successione|1766,97|344,3|22|388,73|0|0|0||2500
+FT|DF|18|06/01/2017|1162|||Verbale trasferimento sede|436,17|455,1|22|95,96|20|87,23|0||987,23
+PR|DF|19|10/01/2017|0|||Compravendita prima casa (rendita 728,20+63,21) e seconda casa (rendita 42,14+49,17 euro), prezzo totale 310 mila euro, senza mutuo collegato|2335,89|2950,21|22|513,9|0|0|0||0
+FT|DF|19|10/01/2017|1230|||Procura Speciale - Esente|101,64|26|22|22,36|0|0|0||150
+PR|DF|20|10/01/2017|0|||Compravendita prima casa (60mila euro, rendita 371,85 euro, immobile fuori provincia)|1455,08|1324,8|22|320,12|0|0|0||0
+FT|DF|20|10/01/2017|1187|||Girata azionaria CALISIO SPA|92,04|337,71|22|20,25|0|0|0||450
+FT|DF|21|10/01/2017|1186|||Mutuo con Surroga FLORESTE|921,07|60,5|22|202,64|20|184,21|0||1184,21
+PR|DF|21|11/01/2017|0|||Compravendita prima casa (180mila euro, rendita 355,06 euro)|1378,2|1218,6|22|303,2|0|0|0||0
+PR|DF|22|11/01/2017|0|||Mutuo ipotecario (160mila euro, ipoteca 210mila euro)|1023,44|51,4|22|225,16|0|0|0||0
+PR|DF|23|11/01/2017|1242|||Mutuo fondiario|1992,87|68,7|22|438,43|0|0|0||0
+PR|DF|24|11/01/2017|0|||Mutuo CATTANI FRANCESCO (350mila euro, ipoteca 595mila euro)|1317,46|92,7|22|289,84|0|0|0||0
+PR|DF|25|11/01/2017|0|||Mutuo CATTANI MARCELLO (350mila euro, ipoteca 595mila euro)|1301,06|112,7|22|286,24|0|0|0||0
+PR|DF|26|11/01/2017|0|||Mutuo CATTANI IGOR (350 mila euro, ipoteca 595 mila euro)|1301,06|112,7|22|286,24|0|0|0||0
+PR|DF|27|11/01/2017|0|||Mutuo CATTANI IGOR (450mila euro, ipoteca 765 mila euro)|1623,77|119|22|357,23|0|0|0||0
+PR|DF|28|11/01/2017|0|||Compravendita terreno agricolo (55 mila euro, agevolazione c.d. legge montagna)|1350,97|622|22|297,22|20|270,19|0||0
+PR|DF|30|11/01/2017|0|||Pratica successoria (predisposizione dichiarazione di successione, ricorso per certificato d'eredità, pratiche tavolari e catastali)|1754,1|360|22|385,9|0|0|0||0
+PR|DF|31|11/01/2017|0|||Delibera di scissione societaria|1898,34|463,7|22|417,63|20|379,67|0||0
+PR|DF|32|11/01/2017|0|||Atto di scissione (con immobili)|1930|1131,4|22|424,6|20|386|0||0
+PR|DF|33|11/01/2017|0|||Compravendita prima casa e terreno edificabile (320mila euro)|2202,79|3012,6|22|484,61|0|0|0||0
+PR|DF|34|11/01/2017|0||||1341,31|1163,6|22|295,09|0|0|0||0
+PR|DF|35|11/01/2017|0||||1024,02|50,7|22|225,28|0|0|0||0
+FT|DF|22|11/01/2017|1158|||Compravendita|1725,08|1195,4|22|379,52|0|0|0||3300
+FT|DF|23|11/01/2017|1159|||Mutuo|883,85|21,7|22|194,45|0|0|0||1100
+PR|DF|36|11/01/2017|1278|||Compravendita iva garage (20mila euro)|825,82|827,5|22|181,68|0|0|0||0
+PR|DF|37|12/01/2017|0|||Costituzione di servitù non donativa|1079,92|1182,5|22|237,58|0|0|0||0
+PR|DF|38|12/01/2017|0|||Compravendita terreno edificabile da società|903,69|597,5|22|198,81|0|0|0||0
+PR|DF|39|12/01/2017|0|||Cessioni quote Iobstraibizer e Teknoiob (acquirente M.A., acquistate quote di Euro 18.389,00)|810,11|511,67|22|178,22|0|0|0||0
+PR|DF|40|12/01/2017|0|||Cessioni quote Iobstraibizer e Teknoiob (acquirente M.I., acquistate quote di Euro 18.389,00)|810,11|511,67|22|178,22|0|0|0||0
+PR|DF|41|12/01/2017|0|||Cessioni quote Iobstraibizer e Teknoiob (acquirente C.D., acquistate quote di Euro 13.135,00)|810,11|511,67|22|178,22|0|0|0||0
+PR|DF|42|12/01/2017|0|||Cessioni quote Iobstraibizer e Teknoiob (acquirente M.E.., acquistate quote di Euro 6.567,50)|728,14|511,67|22|160,19|0|0|0||0
+PR|DF|43|12/01/2017|0|||Cessioni quote Iobstraibizer e Teknoiob (acquirente B.E., acquistate quote di Euro 6.567,50)|728,14|511,67|22|160,19|0|0|0||0
+PR|DF|44|12/01/2017|0|||Cessioni quote Iobstraibizer e Teknoiob (acquirente L.D., acquistate quote di Euro 2.627,00)|646,17|511,67|22|142,16|0|0|0||0
+PR|DF|46|12/01/2017|0|||Compravendita prima casa (138mila euro oltre IVA)|1325,08|833,4|22|291,52|0|0|0||0
+PR|DF|47|12/01/2017|0|||Mutuo fondiario (110 mila euro, ipoteca 220mila euro)|839,59|25,7|22|184,71|0|0|0||0
+PR|DF|49|12/01/2017|1114|||Procura Speciale - Esente|150,82|16|22|33,18|0|0|0||0
+PR|DF|50|12/01/2017|1240|||Soc.cap. Costituzione|1061,27|417,5|22|233,48|20|212,25|0||0
+FT|DF|24|13/01/2017|1234|||Compravendita|827,46|490,5|22|182,04|0|0|0||1500
+PR|DF|621|16/01/2017|0|||Compravendita seconda casa (prezzo 136mila euro, rendita 268,56 euro)|1441,91|3240,87|22|317,22|0|0|0||0
+PR|DF|51|16/01/2017|0|||Mutuo fondiario (75mila euro, ipoteca 120mila euro)|699,43|46,7|22|153,87|0|0|0||0
+PR|DF|52|16/01/2017|1241|||Mutuo fondiario LAPIANA (100 mila euro, ipoteca 170mila euro)|1009,02|69|22|221,98|0|0|0||0
+PR|DF|53|16/01/2017|1243|||Risoluzione e Affitto di Azienda|1423,92|647,6|22|313,26|20|284,78|0||0
+PR|DF|54|16/01/2017|0|||Compravendita seconda casa (280mila euro, rendita catastale 573,27 euro)|1856,49|6735,08|22|408,43|0|0|0||0
+PR|DF|55|16/01/2017|0|||Mutuo fondiario (150mila euro, ipoteca iscritta per euro 300mila)|1020,74|54,7|22|224,56|0|0|0||0
+PR|DF|56|16/01/2017|0|||Compravendita con agevolazione PPC (compravendita P.F. 911, per prezzo di Euro 533.502)|2262,06|492,7|22|497,65|20|452,41|0||0
+PR|DF|57|16/01/2017|0|||Compravendita con agevolazioni PPC (P.F. 1204/5 per il prezzo di Euro 60.235,65 e lP.F. 1204/3 e 1204/4 per il prezzo di Euro 115.126,65)|2235,88|519,4|22|491,9|20|447,18|0||0
+PR|DF|58|16/01/2017|0|||Compravendita con agevolazioni PPC (lP.F. 1204/3 e 1204/4 per il prezzo di Euro 115.126,65)|1125,79|51,7|22|247,67|20|225,16|0||0
+AV|DF|20|17/01/2017|1245|||Girata azionaria ISA SPA (Bigaran Maria Pia)|86,04|2,24|22|18,93|20|17,21|0||0
+AV|DF|21|17/01/2017|1244|||Girata azionaria ISA SPA (Balduzzi Luciana)|87,61|0,63|22|19,28|20|17,52|0||0
+FT|DF|25|18/01/2017|1205|||Mutuo fondiario|912,54|86,7|22|200,76|0|0|0||1200
+FT|DF|26|18/01/2017|1204|||Mutuo fondiario|912,54|86,7|22|200,76|0|0|0||1200
+PR|DF|59|18/01/2017|0|||Affitto azienda (durata quinquennale, canone mensile 3.000 euro)|1309,8|364|22|288,16|20|261,96|0||0
+PR|DF|60|18/01/2017|0|||Cessione di credito in garanzia e privilegio iscrizionale ex art. 48 TUB (a garanzia di mutuo chirografario, 1,6 milioni di euro)|3024,7|214,8|22|665,44|20|604,94|0||0
+PR|DF|61|18/01/2017|0|||Pratica successoria (predisposizione, presentazione certificato d'eredità, pratiche tavolari e catastali)|979,51|205|22|215,49|0|0|0||0
+PR|DF|62|18/01/2017|0|||Compravendita prima casa (prezzo 248mila euro)|1700,86|1624,95|22|374,19|0|0|0||0
+PR|DF|63|18/01/2017|0|||Mutuo fondiario (248mila euro, ipoteca 350mila euro)|1205,16|29,7|22|265,14|0|0|0||0
+PR|DF|64|18/01/2017|0|||Trasferimento in sede separazione|1536,88|25|22|338,12|0|0|0||0
+FT|DF|27|19/01/2017|1213|||Girata azionaria (GASSER SRL)|85,49|102,8|22|18,81|20|17,1|0||207,1
+FT|DF|28|19/01/2017|1208|||Girata azionaria (PANICO)|88,05|0,19|22|19,37|20|17,61|0||107,61
+AV|DF|22|19/01/2017|0|||Consulenza pratica tavolare e presentazione di istanza tavolare e voltura catastale|225,41|25|22|49,59|0|0|0||0
+AV|DF|24|19/01/2017|1236|||Affitto d'azienda|414,8|176,9|22|91,26|20|82,96|0||0
+FT|DF|29|19/01/2017|1198|||Compravendita|2203,93|1561,2|22|484,87|0|0|0||4250
+FT|DF|30|19/01/2017|1199|||Mutuo|1086,88|24|22|239,12|0|0|0||1350
+FT|DF|31|19/01/2017|1229|||Convenzione Matrimoniale|533,11|249,6|22|117,29|0|0|0||900
+FT|DF|32|19/01/2017|1216|||Compravendita terreni agricoli con agevolazione PPC|833,77|482,8|22|183,43|0|0|0||1500
+PR|DF|66|19/01/2017|0|||Donazione LEONELLI (prima casa, con quote di terreni agricoli)|1084,02|577,5|22|238,48|0|0|0||0
+FT|DF|33|19/01/2017|1228|||Compravendita garage|802,46|4221|22|176,54|0|0|0||5200
+PR|DF|67|19/01/2017|1261|||Revoca di procura registrata ed iscritta a R.I.|248,43|396,6|22|54,66|20|49,69|0||0
+AV|DF|25|19/01/2017|1236|||Affitto d'azienda|414,8|176,9|22|91,26|20|82,96|0||0
+PR|DF|69|19/01/2017|1259|||Soc.cap. Costituzione|196,07|300|22|43,14|20|39,21|0||0
+PR|DF|70|19/01/2017|1253|||Girata azionaria ISA SPA (Brigadoi)|87,79|0,46|22|19,31|20|17,56|0||0
+PR|DF|71|19/01/2017|1277|||Procura Speciale - Esente|104,1|23|22|22,9|0|0|0||0
+FT|DF|34|20/01/2017|0|||Consulenza pratica tavolare (visure, planimetrie, predisposizione e presentazione domanda tavolare e voltura catastale)|545,08|35|22|119,92|0|0|0||700
+AV|DF|26|23/01/2017|1239|||Soc.cap. Costituzione|1594,61|573,5|22|350,81|20|318,92|0||0
+AV|DF|27|23/01/2017|1238|||Recesso da società di persone|1006,37|473,5|22|221,4|20|201,27|0||0
+FT|DF|35|23/01/2017|1187|||Girata azionaria CALISIO SPA|91,88|7,9|22|20,22|0|0|0||120
+AV|DF|28|23/01/2017|1194|||Pubblicaz. Testamento Olografo|888,39|316,16|22|195,45|0|0|0||0
+AV|DF|29|24/01/2017|1262|||Girata azionaria ISA SPA (Comune di Ronzone)|87,54|0,71|22|19,26|20|17,51|0||0
+AV|DF|30|24/01/2017|1257|||Girata azionaria ISA SPA (Comune di Capriana)|88,04|0,2|22|19,37|20|17,61|0||0
+AV|DF|31|24/01/2017|1256|||Girata azionaria ISA SPA (Comune di Capriana Legato Sale)|86,11|2,17|22|18,94|20|17,22|0||0
+AV|DF|32|24/01/2017|1254|||Girata azionaria ISA SPA (Pouli)|87,1|1,16|22|19,16|20|17,42|0||0
+AV|DF|33|24/01/2017|1252|||Girata azionaria ISA SPA (Costa)|85,69|2,6|22|18,85|20|17,14|0||0
+PR|DF|72|24/01/2017|0|||Compravendita prima casa (235mila euro, rendita 624,91 euro)|1600,21|1647,74|22|352,05|0|0|0||0
+PR|DF|73|24/01/2017|0|||Mutuo fondiario (150mila euro, ipoteca 225mila euro)|942,05|50,7|22|207,25|0|0|0||0
+PR|DF|74|24/01/2017|0|||Compravendita prima casa (250 mila euro, r.c. 624,91 euro)|1911,69|1667,74|22|420,57|0|0|0||0
+PR|DF|75|24/01/2017|1164|||Permuta|2293,03|1202,5|22|504,47|0|0|0||0
+AV|DF|34|24/01/2017|1237|||Mutuo chirografario|2579,9|368,5|22|567,58|20|515,98|0||0
+AV|DF|35|24/01/2017|982|||Compravendita con riserva di proprietà euro 150 mila (prima casa)|1883,11|1302,6|22|414,29|0|0|0||0
+AV|DF|36|24/01/2017|1203|||Soc.cap. Costituzione|1976,96|383,5|22|434,93|20|395,39|0||0
